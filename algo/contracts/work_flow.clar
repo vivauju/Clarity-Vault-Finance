@@ -1,5 +1,4 @@
-;; Algorithmic Lending Vault Protocol - v2.0.0
-;; Added governance system and advanced vault management
+;; Algorithmic Lending Vault Protocol
 
 (define-constant vault-controller tx-sender)
 (define-constant err-controller-only (err u100))
